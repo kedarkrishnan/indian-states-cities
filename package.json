@@ -1,0 +1,31 @@
+{
+  "name": "indian-states-cities",
+  "version": "1.0.0",
+  "description": "Get Indian States and Cities",
+  "main": "./src/index.js",
+  "dependencies": {
+    "tabletojson": "^0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kedarkrishnan/indian-states-cities.git"
+  },
+  "keywords": [
+    "indian",
+    "india",
+    "states",
+    "cities",
+    "state",
+    "city"
+  ],
+  "author": "Kedar Krishnan <kedar.krishnan@gmail.com> (http://kedarkrishnan.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kedarkrishnan/indian-states-cities/issues"
+  },
+  "homepage": "https://github.com/kedarkrishnan/indian-states-cities#readme"
+}
