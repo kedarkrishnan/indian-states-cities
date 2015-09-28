@@ -1,6 +1,6 @@
 {
   "name": "indian-states-cities",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get Indian States and Cities",
   "main": "./src/index.js",
   "dependencies": {},
