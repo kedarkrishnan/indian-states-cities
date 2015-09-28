@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Get Indian States and Cities",
   "main": "./src/index.js",
-  "dependencies": {
-    "tabletojson": "^0.2.1"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
